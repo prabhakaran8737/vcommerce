@@ -14,5 +14,8 @@
     "debug": "~2.0.0",
     "jade": "~1.6.0",
     "less-middleware": "1.0.x"
+  },
+  "devDependencies": {
+    "nodemon": "1.2.1"
   }
 }
