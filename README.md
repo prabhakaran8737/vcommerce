@@ -11,7 +11,7 @@ Coming soon!
 See [here](http://vcommerce.io/docs)
 
 ## Tests
-Run the tests with `make test`
+Run the tests with `npm test`
 
 ## Contributors
 https://github.com/webtrickster
